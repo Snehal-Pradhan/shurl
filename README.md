@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="shurl logo" src="public/logo.png" width="20%">
+    <img alt="shurl logo" src="public/logo.png" width="27%">
   </picture>
 </div>
 <h1 align="center" >shURL — URL Shortener</h1>
