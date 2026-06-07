@@ -1,9 +1,10 @@
-<h1 align="center" >shURL — URL Shortener</h1>
 <div align="center">
   <picture>
-    <img alt="shurl logo" src="public/logo.png" width="25%">
+    <img alt="shurl logo" src="public/logo.png" width="20%">
   </picture>
-
+</div>
+<h1 align="center" >shURL — URL Shortener</h1>
+<div align="center">
   <br>
   <p align="center">
     A lightweight URL shortener built with Go's standard library. Shorten long URLs and redirect with a single <b>net/http</b> server — zero external dependencies, zero framework magic, just clean Go.
